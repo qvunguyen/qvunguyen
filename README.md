@@ -38,10 +38,17 @@ University of Melbourne (2020-current)
 [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/XYPHJZKXS4M4)
 
 ## 📂 Projects
-[iOS Geothermal App](https://apps.apple.com/app/geosys-calculator/id6449222772)
+[1. iOS Geothermal App](https://apps.apple.com/app/geosys-calculator/id6449222772)
 
 [Endeavour Discipline Award-Winning project in the field of Computing and Information Systems semester 1, 2023](https://endeavour.unimelb.edu.au/students/endeavour-awards-night).
-We helped our clients bring one of his research paper results to real-world application using an iOS app. The Geothermal iOS app is a portable calculator that outputs the recommended geothermal system design specifications based on user input.
+
+Overview: We helped our clients bring one of his research paper results to real-world application using an iOS app. The Geothermal iOS app is a portable calculator that outputs the recommended geothermal system design specifications based on user input.
+
+[2. Google Data Analytics Capstone](https://github.com/qvunguyen/google_data_analyst_capstone)
+
+[3. Movie Recommended System](https://github.com/qvunguyen/movie-recommendation-system)
+
+[4. Creadit Card Fraud Detection](https://github.com/qvunguyen/credit-card-fraud-detection)
 
 ---
 
