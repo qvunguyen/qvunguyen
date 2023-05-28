@@ -56,7 +56,16 @@ The analysis focuses on smart devices data, gathered through a distributed surve
 
 Key findings include users' active and inactive days, caloric burn patterns, activity levels, total distance traveled, and sleep patterns. This information led to strategic recommendations for promoting outdoor activities, emphasizing light activities, providing personalized workout recommendations, improving sleep habits, and employing social media influencers for product promotion.
 
-[3. Movie Recommended System](https://github.com/qvunguyen/movie-recommendation-system)
+[3. Movie Recommendation System](https://github.com/qvunguyen/movie-recommendation-system)
+
+Overview:
+The Movie Recommendation System is a hybrid model that employs collaborative filtering and content-based filtering techniques to generate movie recommendations. We utilize Python and multiple libraries like Surprise and Scikit-learn to build this system. The model utilizes the MovieLens 25M dataset, comprising 25 million ratings and one million tag applications from 162,000 users on 62,000 movies.
+
+The collaborative filtering approach involves predicting a user's preference for a movie based on the preferences of similar users. Here, we apply the Singular Value Decomposition (SVD) algorithm from the Surprise library.
+
+The content-based filtering technique predicts a user's preference for a movie based on its features and the user's preferences for similar features. We utilize the Term Frequency-Inverse Document Frequency (TF-IDF) approach to create feature vectors for movie genres and compute cosine similarity to gauge the similarity between movies based on their genres.
+
+Testing the recommendation system is straightforward and customizable. Users can set their user ID, the movie title they prefer, and the number of recommendations they desire. The model then generates a list of top recommendations based on these parameters.
 
 [4. Creadit Card Fraud Detection](https://github.com/qvunguyen/credit-card-fraud-detection)
 
