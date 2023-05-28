@@ -68,6 +68,7 @@ The content-based filtering technique predicts a user's preference for a movie b
 Testing the recommendation system is straightforward and customizable. Users can set their user ID, the movie title they prefer, and the number of recommendations they desire. The model then generates a list of top recommendations based on these parameters.
 
 [4. Creadit Card Fraud Detection](https://github.com/qvunguyen/credit-card-fraud-detection)
+Overview: This project involves the application of various machine learning models to identify fraudulent credit card transactions. The models include Logistic Regression, Random Forest, KNN, XGBoost, and LightGBM. The data preprocessing steps implemented handle missing values, duplicates, and outliers, and also address the imbalance in the dataset using SMOTE. Based on performance metrics, the Random Forest model stands out as the most effective in detecting fraudulent transactions.
 
 ---
 
