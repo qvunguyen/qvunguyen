@@ -42,9 +42,19 @@ University of Melbourne (2020-current)
 
 [Endeavour Discipline Award-Winning project in the field of Computing and Information Systems semester 1, 2023](https://endeavour.unimelb.edu.au/students/endeavour-awards-night).
 
-Overview: We helped our clients bring one of his research paper results to real-world application using an iOS app. The Geothermal iOS app is a portable calculator that outputs the recommended geothermal system design specifications based on user input.
+Overview: An endeavor to bring academic research to real-world application, the iOS Geothermal App is a tool designed to simplify the complexity involved in geothermal systems design. It serves as a portable calculator for engineers, architects, and contractors to output the recommended geothermal system design specifications based on user input.
+
+The demand for energy efficiency and sustainable building practices has fueled the need for simple, accessible tools like our app, particularly among professionals in the field of architecture and engineering. 
+
+A key feature of our app is its simplicity and cost-effectiveness, making it more accessible and user-friendly compared to similar apps on the market.
 
 [2. Google Data Analytics Capstone](https://github.com/qvunguyen/google_data_analyst_capstone)
+
+Overview: This project is a comprehensive marketing analysis for Bellabeat, a high-tech manufacturer of health-focused products for women. As a part of my professional Google Data Analysis certificate capstone, I analyzed smart device fitness data to gain insights into user behaviors. These insights play a crucial role in guiding the company's marketing strategy.
+
+The analysis focuses on smart devices data, gathered through a distributed survey via Amazon Mechanical Turk, including minute-level output for physical activity, heart rate, and sleep monitoring. This valuable dataset provides insights into user behaviors, usage patterns, and preferences, which then translate into actionable marketing strategies.
+
+Key findings include users' active and inactive days, caloric burn patterns, activity levels, total distance traveled, and sleep patterns. This information led to strategic recommendations for promoting outdoor activities, emphasizing light activities, providing personalized workout recommendations, improving sleep habits, and employing social media influencers for product promotion.
 
 [3. Movie Recommended System](https://github.com/qvunguyen/movie-recommendation-system)
 
