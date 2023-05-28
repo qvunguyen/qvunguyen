@@ -22,7 +22,7 @@ University of Melbourne (2020-current)
 - Master of Information Technology; Major in Artificial Intelligence
 
 ## 🏅 Certifications
-Google Data Analytics Professional Certificate
+[Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/XYPHJZKXS4M4)
 
 ## 📂 Projects
 [iOS Geothermal App](https://apps.apple.com/app/geosys-calculator/id6449222772)
