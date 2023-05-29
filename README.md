@@ -10,7 +10,7 @@
 
 ## 🛠️ Skills and Tools
 
-### Languages:
+### Programming Languages:
 - Python 🐍
 - R 📈
 - SQL 🔍
@@ -20,19 +20,17 @@
 - CSS 🎨
 - Swift 🦉
 
-### Tools:
+### Technology & Frameworks:
 - Tableau 📊
 - Spreadsheets 📑
-- Machine Learning 🤖
 - Bootstrap 🚀
 
-
 ## 📚 Education
-University of Melbourne (2017-2020) 
-- Bachelor of Commerce; Major in Finance and Accounting
-
 University of Melbourne (2020-current) 
 - Master of Information Technology; Major in Artificial Intelligence
+
+University of Melbourne (2017-2020) 
+- Bachelor of Commerce; Major in Finance and Accounting
 
 ## 🏅 Certifications
 [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/XYPHJZKXS4M4)
