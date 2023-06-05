@@ -11,19 +11,19 @@
 ## 🛠️ Skills and Tools
 
 ### Programming Languages:
-- Python 🐍
-- R 📈
-- SQL 🔍
-- Java ☕
-- JavaScript ⚙️
-- HTML 🌐
-- CSS 🎨
-- Swift 🦉
+- Python 
+- R 
+- SQL 
+- Java 
+- JavaScript 
+- HTML 
+- CSS 
+- Swift 
 
 ### Technology & Frameworks:
-- Tableau 📊
-- Spreadsheets 📑
-- Bootstrap 🚀
+- Tableau 
+- Spreadsheets 
+- Bootstrap 
 
 ## 📚 Education
 University of Melbourne (2020-current) 
