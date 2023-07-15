@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Quang Vu Nguyen - also known as @qvunguyen 
+# 👋 Hi there, I'm Vu Nguyen - also known as @qvunguyen 
 
 ## I'm a Data Scientist, Software Developer, and Lifelong Learner!
 
