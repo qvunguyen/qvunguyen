@@ -1,11 +1,11 @@
 # 👋 Hi there, I'm Vu Nguyen - also known as @qvunguyen 
 
-## I'm a Data Scientist, Software Developer, and Lifelong Learner!
+## I'm a passionate Data Scientist with expertise in Machine Learning and Artificial Intelligence. A lifelong learner committed to driving insights from data!
 
-- 👀 I’m interested in Machine Learning, Artificial Intelligence, and Web Development.
+- 👀  My primary interests are in Machine Learning, Deep Learning, and Artificial Intelligence. I am also well-versed in statistical modeling and data visualization.
 - 🎓 I’m currently pursuing a Master of Information Technology with a specialization in Artificial Intelligence at the University of Melbourne.
-- 👯 I’m looking to collaborate with others on projects related to Machine Learning and Web Development.
-- 🥅 Future Goals: I aim to incorporate my machine learning skills with web development to bring my projects to life.
+- 👯 I’m eager to collaborate with professionals and enthusiasts on projects related to Data Science, Machine Learning, and AI research.
+- 🥅 Future Goals: I aim to be at the forefront of AI-driven innovation, developing solutions that have real-world impact.
 - 📫 How to reach me: vunguyen.career@gmail.com or [LinkedIn](https://www.linkedin.com/in/vu-nguyen-7105231a5/)
 
 ## 🛠️ Skills and Tools
