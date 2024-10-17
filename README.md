@@ -1,7 +1,6 @@
-# 👋 Hi there, I'm Vu Nguyen - also known as @qvunguyen 
+# 👋 Hi there, I'm Vu Nguyen 
 
-## I'm a passionate Data Scientist with expertise in Machine Learning and Artificial Intelligence. A lifelong learner committed to driving insights from data!
-
+## I'm a Data Scientist.
 - 👀  My primary interests are in Machine Learning, Deep Learning, and Artificial Intelligence. I am also well-versed in statistical modeling and data visualization.
 - 🎓 I’m currently pursuing a Master of Information Technology with a specialization in Artificial Intelligence at the University of Melbourne.
 - 👯 I’m eager to collaborate with professionals and enthusiasts on projects related to Data Science, Machine Learning, and AI research.
