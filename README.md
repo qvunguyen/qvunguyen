@@ -4,7 +4,7 @@
 - 👀  My primary interests are in Machine Learning, Deep Learning, and Artificial Intelligence. I am also well-versed in statistical modeling and data visualization.
 - 👯 I’m eager to collaborate with professionals and enthusiasts on projects related to Data Science, Machine Learning, and AI research.
 - 🥅 Future Goals: I aim to be at the forefront of AI-driven innovation, developing solutions that have real-world impact.
-- 📫 How to reach me: vunguyen.career@gmail.com or [LinkedIn](https://www.linkedin.com/in/vu-nguyen-7105231a5/)
+- 📫 How to reach me: vunguyen.career@gmail.com or [LinkedIn](https://www.linkedin.com/in/jason-nguyen-7105231a5/)
 
 ## 🛠️ Skills and Tools
 
