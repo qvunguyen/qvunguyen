@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Vu Nguyen 
+# 👋 Hi there, I'm Jason
 
 ## I'm a Data Scientist.
 - 👀  My primary interests are in Machine Learning, Deep Learning, and Artificial Intelligence. I am also well-versed in statistical modeling and data visualization.
