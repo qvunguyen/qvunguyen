@@ -9,19 +9,19 @@
 ## 🛠️ Skills and Tools
 
 ### Programming Languages:
-- Python 
-- R 
-- SQL 
-- Java 
-- JavaScript 
-- HTML 
-- CSS 
-- Swift 
+- Python
+- R
+- SQL
+- Java
+- JavaScript
+- HTML
+- CSS
+- Swift
 
 ### Technology & Frameworks:
-- Tableau 
-- Spreadsheets 
-- Bootstrap 
+- Tableau
+- Spreadsheets
+- Bootstrap
 
 ## 📚 Education
 University of Melbourne (2020-2023) 
@@ -74,5 +74,4 @@ Overview: This project involves the application of various machine learning mode
 <!---
 qvunguyen/qvunguyen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-
+-->
