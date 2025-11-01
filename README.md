@@ -2,7 +2,7 @@
 
 ## Data Scientist
 
-I am a data scientist with a strong foundation in machine learning, deep learning, and artificial intelligence. My expertise spans statistical modeling, data visualization, and end-to-end data analysis. I am passionate about leveraging data-driven insights to drive innovation and solve real-world problems. I am actively seeking opportunities to collaborate on impactful projects in data science and AI research.
+I am a data scientist with a strong foundation in machine learning, deep learning, and artificial intelligence. My expertise spans statistical modeling, data visualization, and end-to-end data analysis. I am passionate about leveraging data-driven insights to drive innovation and solve real-world problems. I am actively seeking opportunities to collaborate on impactful projects in data science and AI research
 
 ### Contact
 - Email: vunguyen.career@gmail.com
